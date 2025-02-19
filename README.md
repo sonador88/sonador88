@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</p>
+
+<div id="header" align="center">
+  <img src="giphy (1).gif" width='500'/>
+</div>
+
+
 ### <p align="center">Привет, меня зовут Надежда! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></p>
 <div align="center">
 
@@ -29,6 +32,8 @@ Here are some ideas to get you started:
 - Постоянно совершенствую свои знания через курсы  Stepic, чтение Хабр и решение задач Kaggle 👩‍🎓
 - Мечтаю сделать что-то очень полезное для этого мира ⭐
 - В свободное время люблю покорять горные вершины 🏔️, заниматься спортом 🎾, печь вкусняшки 🍰
+
+---
 
 ### :hammer_and_wrench: Инструменты :
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
