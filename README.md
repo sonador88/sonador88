@@ -53,15 +53,38 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-FFF?style=for-the-badge&logo=docker&logoColor=blue)
 
 ---
-https://github.com/sonador88/customer_outflow
-### :white_check_mark: Мои проекты:
-|Название проекта| Описание проекта| Стек|
-|----------------|-----------------|-----|
-|[Прогноз стоимости жилья](https://github.com/sonador88/ML_HousePricePredict)|Решение регрессионной задачи при помощи Ридж-регрессии. Разведочный, корреляционный анализы, Feature engineering, построение прогнозной модели.|pandas,numpy,seaborn,matplotlib,sklearn,scipy,statsmodels|
-|[Прогноз ухода клиента](https://github.com/sonador88/customer_outflow)|Решение задачи на бинарную классификацию при помощи SVC, LogisticRegression, LGBMClassifier, CatBoost|pandas,numpy,seaborn,matplotlib,sklearn,scipy,lightgbm,catboost|
-|[Прогноз склонности пациента сердечному приступу](https://github.com/sonador88/ClassificationHeartAttack)||pandas,numpy,seaborn,matplotlib,sklearn,scipy|
-|[Прогноз стоимости страховки](https://github.com/sonador88/medicalCostPersonal)||pandas,numpy,seaborn,matplotlib,sklearn,scipy|
 
+### :white_check_mark: Мои проекты:
+<table>
+  <tr>
+        <td><b>Название проекта</b></td>
+        <td><b>Описание проекта</b></td>
+        <td><b>Стек</b></td>
+    </tr>
+    <tr>
+        <td colspan="3"><div align="center"><b>Классический ML</b></div></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sonador88/ML_HousePricePredict">Прогноз стоимости жилья</a></td>
+        <td>Решение регрессионной задачи при помощи Ридж-регрессии. Разведочный, корреляционный анализы, Feature engineering, построение прогнозной модели.</td>
+        <td>pandas, numpy, seaborn, matplotlib, sklearn, scipy, statsmodels</td>
+    </tr>
+  <tr>
+        <td><a href="https://github.com/sonador88/customer_outflow">Прогноз ухода клиента</a></td>
+        <td>Решение задачи на бинарную классификацию при помощи SVC, LogisticRegression, LGBMClassifier, CatBoost.</td>
+        <td>pandas, numpy, seaborn, matplotlib, sklearn, scipy, lightgbm, catboost</td>
+    </tr>
+  <tr>
+        <td><a href="https://github.com/sonador88/ClassificationHeartAttack">Прогноз склонности пациента сердечному приступу</a></td>
+        <td>Решение задачи на бинарную классификацию при помощи SVC и LogisticRegression.</td>
+        <td>pandas, numpy, seaborn, matplotlib, sklearn, scipy</td>
+    </tr>
+  <tr>
+        <td><a href="https://github.com/sonador88/medicalCostPersonal">Прогноз стоимости страховки</a></td>
+        <td>Решение регрессионной задачи при помощи RandomForestRegressor, ElasticNet, SVR.</td>
+        <td>pandas, numpy, seaborn, matplotlib, sklearn, scipy</td>
+    </tr>
+</table>
 
 
 
