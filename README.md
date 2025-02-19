@@ -51,3 +51,19 @@ Here are some ideas to get you started:
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT&logoColor=blue)
 ![Airflow](https://img.shields.io/badge/-Airflow-FFF?style=for-the-badge&logo=AIRFLOW)
 ![Docker](https://img.shields.io/badge/docker-FFF?style=for-the-badge&logo=docker&logoColor=blue)
+
+---
+https://github.com/sonador88/customer_outflow
+### :white_check_mark: Мои проекты:
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|[Прогноз стоимости жилья](https://github.com/sonador88/ML_HousePricePredict)|Решение регрессионной задачи при помощи Ридж-регрессии. Разведочный, корреляционный анализы, Feature engineering, построение прогнозной модели.|pandas,numpy,seaborn,matplotlib,sklearn,scipy,statsmodels|
+|[Прогноз ухода клиента](https://github.com/sonador88/customer_outflow)|Решение задачи на бинарную классификацию при помощи SVC, LogisticRegression, LGBMClassifier, CatBoost|pandas,numpy,seaborn,matplotlib,sklearn,scipy,lightgbm,catboost|
+|[Прогноз склонности пациента сердечному приступу](https://github.com/sonador88/ClassificationHeartAttack)||pandas,numpy,seaborn,matplotlib,sklearn,scipy|
+|[Прогноз стоимости страховки](https://github.com/sonador88/medicalCostPersonal)||pandas,numpy,seaborn,matplotlib,sklearn,scipy|
+
+
+
+
+
+
