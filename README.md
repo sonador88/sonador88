@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sonador88/sonador88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### <p align="center">Привет, меня зовут Надежда! 👋</p>
+<div align="center">
+
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/NadyaVelikorodnyaya)</a>
+  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/79232560501)</a>
+
+</div>
+
+### 👩‍💻 Обо мне: 
+Я ML-инженер с техническим образованием.
+- Люблю искать закономерности и скрытые инсайты в данных
+- Постоянно совершенствую свои знания через курсы  Stepic, чтение Хабр и решение задач Kaggle
