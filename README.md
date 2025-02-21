@@ -62,6 +62,14 @@ Here are some ideas to get you started:
         <td><b>Стек</b></td>
     </tr>
     <tr>
+        <td colspan="3"><div align="center"><b>NLP</b></div></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sonador88/rag_famous_people">RAG для диалоговой системы</a></td>
+        <td>Создание ассистента, который может отвечать на любые вопросы про жизнь известных личностей. Реализация поддержки диалога в RAG, поиск по базе знаний ChromaDB обогащен поиском информации в интернете.</td>
+        <td>ChromaDB, langchain, transformers, Llama, requests, BeautifulSoup</td>
+    </tr>
+    <tr>
         <td colspan="3"><div align="center"><b>Классический ML</b></div></td>
     </tr>
     <tr>
