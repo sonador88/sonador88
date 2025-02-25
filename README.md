@@ -78,7 +78,7 @@ Here are some ideas to get you started:
         <td>pandas, numpy, seaborn, matplotlib, sklearn, scipy, statsmodels</td>
     </tr>
   <tr>
-        <td><a href="https://github.com/sonador88/customer_outflow">Прогноз ухода клиента</a></td>
+        <td><a href="https://github.com/sonador88/customer_outflow">Прогноз оттока клиентов</a></td>
         <td>Решение задачи на бинарную классификацию при помощи SVC, LogisticRegression, LGBMClassifier, CatBoost.</td>
         <td>pandas, numpy, seaborn, matplotlib, sklearn, scipy, lightgbm, catboost</td>
     </tr>
