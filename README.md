@@ -70,6 +70,11 @@ Here are some ideas to get you started:
         <td>ChromaDB, langchain, transformers, Llama, requests, BeautifulSoup</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sonador88/text_translation">Реализация машинного перевода</a></td>
+        <td>Создание и обучение трансформерной модели, которая может осуществлять перевод текстов с одного языка на другой </td>
+        <td>torch, transformers</td>
+    </tr>
+    <tr>
         <td colspan="3"><div align="center"><b>Классический ML</b></div></td>
     </tr>
     <tr>
