@@ -13,25 +13,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="giphy (1).gif" width='500'/>
-</div>
-
 
 ### <p align="center">Привет, меня зовут Надежда! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></p>
 <div align="center">
 
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NadyaVelikorodnyaya)</a>
   <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/79232560501)</a>
+  <a href="">[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.velikorodny@gmail.com)</a>
 
 </div>
 
+---
+
+<!--
+<div id="header" align="center">
+  <img src="giphy (1).gif" width='500'/>
+</div>
+-->
+
+<img align="right" src="giphy (1).gif" width="350"></img>
+
 ### 👩‍💻 Обо мне: 
-Я ML-инженер с высшим математическим образованием.
-- Люблю искать закономерности и скрытые инсайты в данных 📈
-- Постоянно совершенствую свои знания через курсы  Stepic, чтение Хабр и решение задач Kaggle 👩‍🎓
-- Мечтаю сделать что-то очень полезное для этого мира ⭐
-- В свободное время люблю покорять горные вершины 🏔️, заниматься спортом 🎾, печь вкусняшки 🍰
+
+*<h4>Я ML-инженер с высшим математическим образованием.</h4>*
+- *Люблю искать закономерности и скрытые инсайты в данных 📈*
+- *Постоянно совершенствую свои знания через курсы  Stepic, чтение Хабр <br>и решение задач Kaggle 👩‍🎓*
+- *В свободное время люблю покорять горные вершины 🏔️, заниматься <br>спортом 🎾, печь вкусняшки 🍰*
+
+---
+### :mortar_board: Образование:
+- karpov.courses - Deep Learning Engineer (*[Сертификат](https://lab.karpov.courses/certificate/e88dac21-9b87-4781-85d5-9e1896154b03/)*)
+- karpov.courses - Deep Learning Engineer. NLP (*[Сертификат](https://lab.karpov.courses/certificate/81e8a319-4c83-45e3-b863-ebf9065f37ed/)*)
 
 ---
 
@@ -88,7 +100,7 @@ Here are some ideas to get you started:
         <td>pandas, numpy, seaborn, matplotlib, sklearn, scipy, lightgbm, catboost</td>
     </tr>
   <tr>
-        <td><a href="https://github.com/sonador88/ClassificationHeartAttack">Прогноз склонности пациента сердечному приступу</a></td>
+        <td><a href="https://github.com/sonador88/ClassificationHeartAttack">Прогноз склонности пациента к сердечному приступу</a></td>
         <td>Решение задачи на бинарную классификацию при помощи SVC и LogisticRegression.</td>
         <td>pandas, numpy, seaborn, matplotlib, sklearn, scipy</td>
     </tr>
